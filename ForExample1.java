@@ -40,13 +40,13 @@ class ForExample1
 				System.out.println(ch);
    			}
 
-   		System.out.println("---------- UPPER CASE A to Z CHARACTER (DECENDING) -------------");
+   		System.out.println("---------- UPPER CASE A to Z CHARACTER (DESCENDING) -------------");
    		for (char ch=90; ch>=65; ch--)
    		{
    			System.out.println(ch);
    		}
 
-		System.out.println("---------- LOWER CASE A to Z CHARACTER (DECENDING) -------------");
+		System.out.println("---------- LOWER CASE A to Z CHARACTER (DESCENDING) -------------");
 		for (char ch = 122; ch>=97;ch--)
 		{
 			System.out.println(ch);
