@@ -1,3 +1,4 @@
+// If Reverse of a Prime Number is also a Prime, then it is called as Emirp Number 
 import java.util.Scanner;
 class EmirpNum
 {
