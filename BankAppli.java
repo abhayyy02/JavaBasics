@@ -9,6 +9,12 @@ class BankAp
 	static int Npin ;
 	static double bal;
 
+	static 
+	{
+		System.out.println();
+		System.out.println("[**]--- Welcome to TECH Bank ---[**]");
+	}
+
 	public static void main(String[] args) 
 	{
 		Scanner sc = new Scanner(System.in);
@@ -16,8 +22,7 @@ class BankAp
 		Outerloop:
 		for(;;)
 		{
-			System.out.println();
-			System.out.println("[**]--- Welcome to TECH Bank ---[**]");
+			
 			System.out.println();
 
 			System.out.println("1. Create a New Account ");
